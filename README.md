@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Shiva+Reddy" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Shiva+Reddy" alt="Typing SVG" height=100px /></a></h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 📫 How to reach me **chalakanishiva@gmail.com**
